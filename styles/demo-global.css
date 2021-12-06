@@ -13,10 +13,10 @@
 }
 
 body {
-  background: var(--potters-clay);
+  background: var(--spicy-mix);
   /* these become the default font settings for the reset of the page */
   font-family: 'Patua One', sans-serif;
-  color: var(--zeus);
+  color: var(--thunder);
 }
 
 #hero-image {
@@ -125,7 +125,7 @@ input {
 button {
   /* Color and font settings for label */
   /* Bright color for Call To Action (CTA) */
-  background: var(--sinopia);
+  background: var(--swirl);
   color: var(--white);
   border: 0;
   padding: 20px;
