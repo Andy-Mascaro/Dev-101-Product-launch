@@ -4,12 +4,12 @@
 :root {
   /* css variables with theme colors,
     names have to start with "--" */
-  --nomad: #b9af9e;
-  --zeus: #221d14;
-  --irish-coffee: #604124;
-  --potters-clay: #836038;
-  --sinopia: #c25223ff;
-  --white: white;
+    --swirl: #D5CFC5;
+    --thunder: #373137;
+    --spicy-mix: #855549;
+    /* --potters-clay: #836038; */
+    /* --sinopia: #c25223ff; */
+    --leather: #A3775E;
 }
 
 body {
