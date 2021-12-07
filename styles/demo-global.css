@@ -19,7 +19,7 @@ body {
   color: var(--thunder);
 }
 
-#hero-image {
+#laughing-image {
   /* for grid mode, the area for this element */
   grid-area: image;
 
@@ -56,7 +56,7 @@ body {
 
   /* In wide mode, image should take up the full height,
      but not go wider than the allotted column width */
-  #hero-image {
+  #laughing-image {
     height: 100%;
     max-width: 100%;
   }
